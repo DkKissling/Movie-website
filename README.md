@@ -1,6 +1,4 @@
-Sure, here's the README in English:
-
-# Movie Page
+# Movie Website
 
 This is our first web application developed as a practical project to learn HTML, CSS, and JavaScript. It is a movie-centric website where users can explore and discover new titles, create their own list of favorite movies, and more.
 
